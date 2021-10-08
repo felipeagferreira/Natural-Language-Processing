@@ -8,6 +8,7 @@ Kiva Microfunds is a non-profit that allows individuals to lend money to low-inc
 ## The Data
 
 The data can be found at the following links:
+
 •	https://drive.google.com/file/d/1dzzVbgHphbCf7kvq9IKiIhwzmxPbuH4s/view?usp=sharing
 •	https://drive.google.com/file/d/1EVWfyqQOd_W2uTKrr4JTD2iFrEZHoOHT/view?usp=sharing
 
